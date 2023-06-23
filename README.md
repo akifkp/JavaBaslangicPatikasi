@@ -4,4 +4,4 @@ Bu repo. Java Başlangıç Patikası boyunca yaptığım tüm programları içer
 
 Tüm adımlar ilerleyişe göre değiştirilecektir.
 
-Eğer bana ulaşmak isterseniz [tıklayın](https://twitter.com/akifkpdev)
+[Eğer bana ulaşmak isterseniz](https://twitter.com/akifkpdev)
